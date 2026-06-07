@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-06-06">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="czlowiek" label="czlowiek" />
+      <node id="prawo" label="prawo" />
+      <node id="wolnosc" label="wolnosc" />
+      <node id="moze" label="moze" />
+      <node id="nie" label="nie" />
+      <node id="obowiazek" label="obowiazek" />
+      <node id="obywatel" label="obywatel" />
+      <node id="odpowiedzialnosc" label="odpowiedzialnosc" />
+      <node id="panstwo" label="panstwo" />
+      <node id="©kancelaria" label="©kancelaria" />
+      <node id="publicznych" label="publicznych" />
+      <node id="zasady" label="zasady" />
+      <node id="zapewnia" label="zapewnia" />
+      <node id="publicznej" label="publicznej" />
+      <node id="władzy" label="władzy" />
+      <node id="konstytucji" label="konstytucji" />
+      <node id="ministrów" label="ministrów" />
+      <node id="prezydent" label="prezydent" />
+      <node id="rada" label="rada" />
+      <node id="sejm" label="sejm" />
+      <node id="trybunal" label="trybunal" />
+      <node id="sad" label="sad" />
+      <node id="senat" label="senat" />
+      <node id="określa" label="określa" />
+      <node id="ustawa" label="ustawa" />
+      <node id="terytorialnego" label="terytorialnego" />
+      <node id="drodze" label="drodze" />
+      <node id="działalności" label="działalności" />
+      <node id="ograniczenie" label="ograniczenie" />
+      <node id="ochrona" label="ochrona" />
+      <node id="osoby" label="osoby" />
+      <node id="samorządu" label="samorządu" />
+      <node id="publiczne" label="publiczne" />
+      <node id="zakresie" label="zakresie" />
+      <node id="władze" label="władze" />
+      <node id="zasadach" label="zasadach" />
+      <node id="obowiazany" label="obowiazany" />
+      <node id="ciągu" label="ciągu" />
+      <node id="nastąpić" label="nastąpić" />
+      <node id="określonych" label="określonych" />
+      <node id="trybie" label="trybie" />
+      <node id="postępowania" label="postępowania" />
+      <node id="urzędu" label="urzędu" />
+      <node id="tryb" label="tryb" />
+      <node id="mowa" label="mowa" />
+      <node id="wyboru" label="wyboru" />
+      <node id="wniosek" label="wniosek" />
+      <node id="wyjątkiem" label="wyjątkiem" />
+      <node id="umowy" label="umowy" />
+      <node id="działania" label="działania" />
+      <node id="pracy" label="pracy" />
+      <node id="zakres" label="zakres" />
+      <node id="senatu" label="senatu" />
+      <node id="organów" label="organów" />
+      <node id="posłów" label="posłów" />
+      <node id="prezydenta" label="prezydenta" />
+      <node id="administracji" label="administracji" />
+      <node id="dni" label="dni" />
+      <node id="konstytucją" label="konstytucją" />
+      <node id="konstytucyjnego" label="konstytucyjnego" />
+      <node id="rozdział" label="rozdział" />
+      <node id="rady" label="rady" />
+      <node id="prezes" label="prezes" />
+      <node id="głosów" label="głosów" />
+      <node id="liczby" label="liczby" />
+      <node id="najmniej" label="najmniej" />
+      <node id="obecności" label="obecności" />
+      <node id="połowy" label="połowy" />
+      <node id="większością" label="większością" />
+      <node id="prezesa" label="prezesa" />
+      <node id="rządowej" label="rządowej" />
+      <node id="członków" label="członków" />
+      <node id="stanu" label="stanu" />
+      <node id="sejmowi" label="sejmowi" />
+      <node id="budżetowej" label="budżetowej" />
+    </nodes>
+    <edges>
+      <edge source="czlowiek" target="prawo" id="0" weight="11" />
+      <edge source="czlowiek" target="wolnosc" id="1" weight="11" />
+      <edge source="prawo" target="moze" id="2" weight="33" />
+      <edge source="prawo" target="nie" id="3" weight="36" />
+      <edge source="prawo" target="obowiazek" id="4" weight="12" />
+      <edge source="prawo" target="obywatel" id="5" weight="33" />
+      <edge source="prawo" target="odpowiedzialnosc" id="6" weight="11" />
+      <edge source="prawo" target="panstwo" id="7" weight="18" />
+      <edge source="prawo" target="publicznych" id="8" weight="11" />
+      <edge source="prawo" target="wolnosc" id="9" weight="30" />
+      <edge source="prawo" target="©kancelaria" id="10" weight="30" />
+      <edge source="prawo" target="zasady" id="11" weight="16" />
+      <edge source="prawo" target="publicznej" id="12" weight="15" />
+      <edge source="prawo" target="władzy" id="13" weight="10" />
+      <edge source="prawo" target="konstytucji" id="14" weight="10" />
+      <edge source="prawo" target="ustawa" id="15" weight="61" />
+      <edge source="prawo" target="ochrona" id="16" weight="18" />
+      <edge source="prawo" target="publiczne" id="17" weight="11" />
+      <edge source="prawo" target="określa" id="18" weight="29" />
+      <edge source="prawo" target="ograniczenie" id="19" weight="10" />
+      <edge source="prawo" target="określonych" id="20" weight="21" />
+      <edge source="prawo" target="sad" id="21" weight="18" />
+      <edge source="prawo" target="zasadach" id="22" weight="12" />
+      <edge source="prawo" target="tryb" id="23" weight="14" />
+      <edge source="prawo" target="organów" id="24" weight="12" />
+      <edge source="prawo" target="trybunal" id="25" weight="11" />
+      <edge source="prawo" target="ministrów" id="26" weight="10" />
+      <edge source="prawo" target="sejm" id="27" weight="12" />
+      <edge source="wolnosc" target="moze" id="28" weight="25" />
+      <edge source="wolnosc" target="nie" id="29" weight="22" />
+      <edge source="wolnosc" target="obywatel" id="30" weight="19" />
+      <edge source="wolnosc" target="©kancelaria" id="31" weight="16" />
+      <edge source="wolnosc" target="zapewnia" id="32" weight="16" />
+      <edge source="wolnosc" target="ograniczenie" id="33" weight="13" />
+      <edge source="wolnosc" target="ustawa" id="34" weight="32" />
+      <edge source="wolnosc" target="określa" id="35" weight="12" />
+      <edge source="wolnosc" target="określonych" id="36" weight="16" />
+      <edge source="moze" target="nie" id="37" weight="53" />
+      <edge source="moze" target="obowiazek" id="38" weight="10" />
+      <edge source="moze" target="obywatel" id="39" weight="18" />
+      <edge source="moze" target="odpowiedzialnosc" id="40" weight="12" />
+      <edge source="moze" target="panstwo" id="41" weight="23" />
+      <edge source="moze" target="©kancelaria" id="42" weight="27" />
+      <edge source="moze" target="określa" id="43" weight="16" />
+      <edge source="moze" target="ustawa" id="44" weight="61" />
+      <edge source="moze" target="ciągu" id="45" weight="10" />
+      <edge source="moze" target="nastąpić" id="46" weight="12" />
+      <edge source="moze" target="ograniczenie" id="47" weight="13" />
+      <edge source="moze" target="określonych" id="48" weight="16" />
+      <edge source="moze" target="sad" id="49" weight="19" />
+      <edge source="moze" target="zapewnia" id="50" weight="11" />
+      <edge source="moze" target="postępowania" id="51" weight="12" />
+      <edge source="moze" target="tryb" id="52" weight="12" />
+      <edge source="moze" target="zasady" id="53" weight="10" />
+      <edge source="moze" target="publicznej" id="54" weight="11" />
+      <edge source="moze" target="wniosek" id="55" weight="13" />
+      <edge source="moze" target="wyjątkiem" id="56" weight="11" />
+      <edge source="moze" target="działalności" id="57" weight="10" />
+      <edge source="moze" target="senatu" id="58" weight="12" />
+      <edge source="moze" target="głosów" id="59" weight="15" />
+      <edge source="moze" target="liczby" id="60" weight="14" />
+      <edge source="moze" target="najmniej" id="61" weight="15" />
+      <edge source="moze" target="posłów" id="62" weight="13" />
+      <edge source="moze" target="sejm" id="63" weight="25" />
+      <edge source="moze" target="większością" id="64" weight="15" />
+      <edge source="moze" target="konstytucji" id="65" weight="11" />
+      <edge source="moze" target="dni" id="66" weight="12" />
+      <edge source="moze" target="prezydent" id="67" weight="22" />
+      <edge source="moze" target="ministrów" id="68" weight="22" />
+      <edge source="moze" target="prezydenta" id="69" weight="14" />
+      <edge source="moze" target="rady" id="70" weight="17" />
+      <edge source="moze" target="stanu" id="71" weight="11" />
+      <edge source="moze" target="trybunal" id="72" weight="11" />
+      <edge source="nie" target="obywatel" id="73" weight="20" />
+      <edge source="nie" target="odpowiedzialnosc" id="74" weight="12" />
+      <edge source="nie" target="panstwo" id="75" weight="16" />
+      <edge source="nie" target="©kancelaria" id="76" weight="24" />
+      <edge source="nie" target="działalności" id="77" weight="10" />
+      <edge source="nie" target="ograniczenie" id="78" weight="10" />
+      <edge source="nie" target="ustawa" id="79" weight="50" />
+      <edge source="nie" target="publicznej" id="80" weight="15" />
+      <edge source="nie" target="określa" id="81" weight="16" />
+      <edge source="nie" target="ciągu" id="82" weight="11" />
+      <edge source="nie" target="określonych" id="83" weight="14" />
+      <edge source="nie" target="sad" id="84" weight="13" />
+      <edge source="nie" target="postępowania" id="85" weight="12" />
+      <edge source="nie" target="urzędu" id="86" weight="10" />
+      <edge source="nie" target="wyjątkiem" id="87" weight="10" />
+      <edge source="nie" target="posłów" id="88" weight="10" />
+      <edge source="nie" target="prezydenta" id="89" weight="12" />
+      <edge source="nie" target="konstytucji" id="90" weight="14" />
+      <edge source="nie" target="trybunal" id="91" weight="13" />
+      <edge source="nie" target="ministrów" id="92" weight="17" />
+      <edge source="nie" target="rady" id="93" weight="14" />
+      <edge source="nie" target="sejm" id="94" weight="18" />
+      <edge source="nie" target="dni" id="95" weight="12" />
+      <edge source="nie" target="prezydent" id="96" weight="16" />
+      <edge source="nie" target="senatu" id="97" weight="11" />
+      <edge source="nie" target="stanu" id="98" weight="12" />
+      <edge source="obowiazek" target="obywatel" id="99" weight="10" />
+      <edge source="obowiazek" target="ustawa" id="100" weight="12" />
+      <edge source="obywatel" target="panstwo" id="101" weight="12" />
+      <edge source="obywatel" target="©kancelaria" id="102" weight="15" />
+      <edge source="obywatel" target="określa" id="103" weight="14" />
+      <edge source="obywatel" target="ustawa" id="104" weight="23" />
+      <edge source="obywatel" target="określonych" id="105" weight="10" />
+      <edge source="odpowiedzialnosc" target="ustawa" id="106" weight="14" />
+      <edge source="panstwo" target="©kancelaria" id="107" weight="15" />
+      <edge source="panstwo" target="określa" id="108" weight="13" />
+      <edge source="panstwo" target="ustawa" id="109" weight="30" />
+      <edge source="panstwo" target="ministrów" id="110" weight="16" />
+      <edge source="panstwo" target="zakresie" id="111" weight="10" />
+      <edge source="panstwo" target="rady" id="112" weight="10" />
+      <edge source="panstwo" target="sejm" id="113" weight="10" />
+      <edge source="©kancelaria" target="konstytucji" id="114" weight="12" />
+      <edge source="©kancelaria" target="określa" id="115" weight="20" />
+      <edge source="©kancelaria" target="ustawa" id="116" weight="41" />
+      <edge source="©kancelaria" target="ministrów" id="117" weight="15" />
+      <edge source="©kancelaria" target="zasadach" id="118" weight="10" />
+      <edge source="©kancelaria" target="zasady" id="119" weight="10" />
+      <edge source="©kancelaria" target="określonych" id="120" weight="19" />
+      <edge source="©kancelaria" target="sad" id="121" weight="14" />
+      <edge source="©kancelaria" target="prezydenta" id="122" weight="11" />
+      <edge source="©kancelaria" target="rady" id="123" weight="12" />
+      <edge source="©kancelaria" target="sejm" id="124" weight="10" />
+      <edge source="©kancelaria" target="prezydent" id="125" weight="11" />
+      <edge source="©kancelaria" target="trybunal" id="126" weight="10" />
+      <edge source="publicznych" target="ustawa" id="127" weight="13" />
+      <edge source="zasady" target="określa" id="128" weight="22" />
+      <edge source="zasady" target="ustawa" id="129" weight="22" />
+      <edge source="zasady" target="tryb" id="130" weight="15" />
+      <edge source="zapewnia" target="ustawa" id="131" weight="17" />
+      <edge source="publicznej" target="władzy" id="132" weight="12" />
+      <edge source="publicznej" target="ustawa" id="133" weight="15" />
+      <edge source="władzy" target="ustawa" id="134" weight="12" />
+      <edge source="konstytucji" target="ustawa" id="135" weight="24" />
+      <edge source="konstytucji" target="określonych" id="136" weight="11" />
+      <edge source="konstytucji" target="ministrów" id="137" weight="12" />
+      <edge source="konstytucji" target="rady" id="138" weight="10" />
+      <edge source="konstytucji" target="sejm" id="139" weight="10" />
+      <edge source="ministrów" target="prezydent" id="140" weight="18" />
+      <edge source="ministrów" target="rada" id="141" weight="15" />
+      <edge source="ministrów" target="sejm" id="142" weight="17" />
+      <edge source="ministrów" target="trybunal" id="143" weight="10" />
+      <edge source="ministrów" target="ustawa" id="144" weight="34" />
+      <edge source="ministrów" target="zakresie" id="145" weight="10" />
+      <edge source="ministrów" target="określa" id="146" weight="10" />
+      <edge source="ministrów" target="prezes" id="147" weight="14" />
+      <edge source="ministrów" target="rady" id="148" weight="37" />
+      <edge source="ministrów" target="prezesa" id="149" weight="15" />
+      <edge source="ministrów" target="prezydenta" id="150" weight="11" />
+      <edge source="ministrów" target="wniosek" id="151" weight="13" />
+      <edge source="prezydent" target="sejm" id="152" weight="17" />
+      <edge source="prezydent" target="trybunal" id="153" weight="12" />
+      <edge source="prezydent" target="dni" id="154" weight="11" />
+      <edge source="prezydent" target="głosów" id="155" weight="11" />
+      <edge source="prezydent" target="liczby" id="156" weight="11" />
+      <edge source="prezydent" target="najmniej" id="157" weight="12" />
+      <edge source="prezydent" target="posłów" id="158" weight="10" />
+      <edge source="prezydent" target="ustawa" id="159" weight="20" />
+      <edge source="prezydent" target="większością" id="160" weight="11" />
+      <edge source="prezydent" target="prezydenta" id="161" weight="13" />
+      <edge source="prezydent" target="wniosek" id="162" weight="11" />
+      <edge source="prezydent" target="rady" id="163" weight="16" />
+      <edge source="prezydent" target="prezesa" id="164" weight="11" />
+      <edge source="rada" target="ustawa" id="165" weight="12" />
+      <edge source="sejm" target="senat" id="166" weight="14" />
+      <edge source="sejm" target="rady" id="167" weight="14" />
+      <edge source="sejm" target="ustawa" id="168" weight="30" />
+      <edge source="sejm" target="głosów" id="169" weight="13" />
+      <edge source="sejm" target="liczby" id="170" weight="15" />
+      <edge source="sejm" target="najmniej" id="171" weight="16" />
+      <edge source="sejm" target="obecności" id="172" weight="11" />
+      <edge source="sejm" target="posłów" id="173" weight="18" />
+      <edge source="sejm" target="połowy" id="174" weight="11" />
+      <edge source="sejm" target="większością" id="175" weight="15" />
+      <edge source="sejm" target="ciągu" id="176" weight="10" />
+      <edge source="trybunal" target="sad" id="177" weight="15" />
+      <edge source="trybunal" target="konstytucją" id="178" weight="10" />
+      <edge source="trybunal" target="konstytucyjnego" id="179" weight="14" />
+      <edge source="trybunal" target="ustawa" id="180" weight="19" />
+      <edge source="trybunal" target="stanu" id="181" weight="12" />
+      <edge source="sad" target="określonych" id="182" weight="12" />
+      <edge source="sad" target="ustawa" id="183" weight="28" />
+      <edge source="senat" target="ustawa" id="184" weight="10" />
+      <edge source="określa" target="ustawa" id="185" weight="55" />
+      <edge source="określa" target="tryb" id="186" weight="28" />
+      <edge source="określa" target="działania" id="187" weight="11" />
+      <edge source="określa" target="określonych" id="188" weight="10" />
+      <edge source="określa" target="zakres" id="189" weight="10" />
+      <edge source="określa" target="rady" id="190" weight="10" />
+      <edge source="ustawa" target="terytorialnego" id="191" weight="15" />
+      <edge source="ustawa" target="drodze" id="192" weight="10" />
+      <edge source="ustawa" target="działalności" id="193" weight="13" />
+      <edge source="ustawa" target="ochrona" id="194" weight="14" />
+      <edge source="ustawa" target="ograniczenie" id="195" weight="16" />
+      <edge source="ustawa" target="osoby" id="196" weight="10" />
+      <edge source="ustawa" target="samorządu" id="197" weight="16" />
+      <edge source="ustawa" target="publiczne" id="198" weight="14" />
+      <edge source="ustawa" target="zakresie" id="199" weight="17" />
+      <edge source="ustawa" target="zasadach" id="200" weight="16" />
+      <edge source="ustawa" target="obowiazany" id="201" weight="10" />
+      <edge source="ustawa" target="ciągu" id="202" weight="15" />
+      <edge source="ustawa" target="określonych" id="203" weight="34" />
+      <edge source="ustawa" target="trybie" id="204" weight="10" />
+      <edge source="ustawa" target="postępowania" id="205" weight="13" />
+      <edge source="ustawa" target="tryb" id="206" weight="29" />
+      <edge source="ustawa" target="mowa" id="207" weight="11" />
+      <edge source="ustawa" target="wyboru" id="208" weight="11" />
+      <edge source="ustawa" target="umowy" id="209" weight="11" />
+      <edge source="ustawa" target="wniosek" id="210" weight="13" />
+      <edge source="ustawa" target="działania" id="211" weight="14" />
+      <edge source="ustawa" target="pracy" id="212" weight="10" />
+      <edge source="ustawa" target="zakres" id="213" weight="14" />
+      <edge source="ustawa" target="organów" id="214" weight="17" />
+      <edge source="ustawa" target="senatu" id="215" weight="11" />
+      <edge source="ustawa" target="administracji" id="216" weight="10" />
+      <edge source="ustawa" target="dni" id="217" weight="15" />
+      <edge source="ustawa" target="rozdział" id="218" weight="10" />
+      <edge source="ustawa" target="rady" id="219" weight="25" />
+      <edge source="ustawa" target="głosów" id="220" weight="18" />
+      <edge source="ustawa" target="liczby" id="221" weight="18" />
+      <edge source="ustawa" target="najmniej" id="222" weight="22" />
+      <edge source="ustawa" target="obecności" id="223" weight="12" />
+      <edge source="ustawa" target="posłów" id="224" weight="20" />
+      <edge source="ustawa" target="połowy" id="225" weight="12" />
+      <edge source="ustawa" target="większością" id="226" weight="19" />
+      <edge source="ustawa" target="prezesa" id="227" weight="13" />
+      <edge source="ustawa" target="członków" id="228" weight="11" />
+      <edge source="ustawa" target="prezydenta" id="229" weight="17" />
+      <edge source="ustawa" target="stanu" id="230" weight="15" />
+      <edge source="ustawa" target="sejmowi" id="231" weight="12" />
+      <edge source="ustawa" target="budżetowej" id="232" weight="10" />
+      <edge source="terytorialnego" target="samorządu" id="233" weight="18" />
+      <edge source="publiczne" target="władze" id="234" weight="10" />
+      <edge source="zasadach" target="określonych" id="235" weight="16" />
+      <edge source="ciągu" target="dni" id="236" weight="14" />
+      <edge source="wniosek" target="rady" id="237" weight="13" />
+      <edge source="posłów" target="głosów" id="238" weight="14" />
+      <edge source="posłów" target="liczby" id="239" weight="16" />
+      <edge source="posłów" target="najmniej" id="240" weight="17" />
+      <edge source="posłów" target="obecności" id="241" weight="12" />
+      <edge source="posłów" target="połowy" id="242" weight="12" />
+      <edge source="posłów" target="większością" id="243" weight="16" />
+      <edge source="prezydenta" target="rady" id="244" weight="12" />
+      <edge source="administracji" target="rządowej" id="245" weight="10" />
+      <edge source="rady" target="prezes" id="246" weight="14" />
+      <edge source="rady" target="prezesa" id="247" weight="16" />
+      <edge source="głosów" target="liczby" id="248" weight="16" />
+      <edge source="głosów" target="najmniej" id="249" weight="17" />
+      <edge source="głosów" target="obecności" id="250" weight="12" />
+      <edge source="głosów" target="połowy" id="251" weight="12" />
+      <edge source="głosów" target="większością" id="252" weight="17" />
+      <edge source="liczby" target="najmniej" id="253" weight="18" />
+      <edge source="liczby" target="obecności" id="254" weight="12" />
+      <edge source="liczby" target="połowy" id="255" weight="12" />
+      <edge source="liczby" target="większością" id="256" weight="18" />
+      <edge source="najmniej" target="obecności" id="257" weight="12" />
+      <edge source="najmniej" target="połowy" id="258" weight="12" />
+      <edge source="najmniej" target="większością" id="259" weight="18" />
+      <edge source="obecności" target="połowy" id="260" weight="12" />
+      <edge source="obecności" target="większością" id="261" weight="12" />
+      <edge source="połowy" target="większością" id="262" weight="12" />
+    </edges>
+  </graph>
+</gexf>
